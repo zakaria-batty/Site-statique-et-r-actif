@@ -1,0 +1,19 @@
+@media (max-width: 768px) {
+  .header-search {
+    display: block;
+    text-align: center;
+  }
+  .box {
+    display: block;
+  }
+  .container {
+    display: block;
+    width: 93%;
+  }
+  .container .about {
+    width: 100%;
+  }
+  .container .about .left-bar {
+    width: 93%;
+  }
+}
